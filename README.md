@@ -10,8 +10,8 @@ Podes equipar Items ( Armas, Armaduras, Comidas)
 El personaje puede asignarse misiones.
 
 Se utiliza:
-⋅⋅* Herencia y polimorfismo.
-⋅⋅* Interfaces
+- Herencia y polimorfismo.
+- Interfaces
 ⋅⋅* métodos públicos y privados.
 ⋅⋅* Variables, constantes, 
 ⋅⋅* Patrón de Diseño Observer
