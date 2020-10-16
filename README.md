@@ -15,6 +15,7 @@ Se utiliza:
 - Clases y métodos abstractos
 - Interfaces
 - Enumerados
+- Manejo de Excepciones
 - Métodos públicos y privados
 - Variables, constantes
 - Patrón de diseño Observer
