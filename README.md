@@ -20,3 +20,5 @@ Se utiliza:
 - Variables, constantes, static
 - Patrón de diseño Observer
 
+
+#### By Agustín Vaccarezza
