@@ -14,6 +14,7 @@ Se utiliza:
 - Constructores
 - Clases y métodos abstractos
 - Interfaces
+- Enumerados
 - Métodos públicos y privados
 - Variables, constantes
 - Patrón de diseño Observer
