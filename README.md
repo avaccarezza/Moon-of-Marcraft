@@ -17,6 +17,6 @@ Se utiliza:
 - Enumerados
 - Manejo de Excepciones
 - Métodos públicos y privados
-- Variables, constantes
+- Variables, constantes, static
 - Patrón de diseño Observer
 
