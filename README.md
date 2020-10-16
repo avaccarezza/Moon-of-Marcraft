@@ -12,7 +12,7 @@ El personaje puede asignarse misiones.
 Se utiliza:
 - Herencia y polimorfismo.
 - Interfaces
-⋅⋅* métodos públicos y privados.
-⋅⋅* Variables, constantes, 
-⋅⋅* Patrón de Diseño Observer
+- métodos públicos y privados.
+- Variables, constantes, 
+- Patrón de Diseño Observer
 
