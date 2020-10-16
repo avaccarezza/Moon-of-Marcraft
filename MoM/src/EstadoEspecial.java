@@ -1,0 +1,3 @@
+public enum EstadoEspecial {
+    NORMAL,ENVENENADO,PARALIZADO,CONFUSION,DORMIDO;
+}
